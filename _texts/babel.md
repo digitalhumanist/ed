@@ -4,7 +4,7 @@ layout:
 title: The Library of Babel
 author: Jorge Luis Borges
 source: 
-editor: 
+editor:
 publication-date: 
 ---
 
