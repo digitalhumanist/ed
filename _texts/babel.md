@@ -19,8 +19,10 @@ Sampl text
 
 <p class="centered">
 _The Library of Babel_
- </p>
+</p>
 
+<br>
+<br>
 
 <a id="title-page">
 <p class="centered large">Jorge Luis Borges</p>
