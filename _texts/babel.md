@@ -60,8 +60,11 @@ _A Library of Two Inventions
 ---
 
  <p align="justify">
+
 {:.indent-3}HAT IS PRESENTED to us here is a most intriguing case of
+
 {:.indent-3}sympathies and differences. This is by no means the ﬁrst in-
+
 {:.indent-3}stance of imaging Borges’s total library. Earlier attempts were
 rather literal graphic representations of Borges’s verbal account of the
 universe he chooses to call “The Library of Babel.” Desmazie(')res’s etch-
