@@ -19,7 +19,7 @@ Sample text
 ---
 
 <p class="centered">
-*The Library of Babel*
+<i>The Library of Babel</i>
 </p>
 
 <br>
