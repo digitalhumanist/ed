@@ -74,6 +74,23 @@ masterful Italian etcher, Giambattista Piranesi, Desmazie(')res calls the<br>
 second state, which he issued as a portfolio, _Onze Estampes Inspirées de<br>
 la Nouvelle... inventées et gravées par Erik Desmazie(')res_. And not unlike the<br>
 _Carceri_, these plates are denser, more tortuous, oppressive, and ominous<br>
-than those of the ﬁrst state.
+than those of the ﬁrst state.<br>
+
+{:.indent-1}Borges’s universe is described from the inside; it has no entrance and<br>
+no exit. The writer chooses to call it “The Library of Babel,” and it is this<br>
+title that inspires Desmazie(')res to use an image of that tower as the entry<br> 
+to his own imaginary universe, or alternatively, his own imaginary<br>
+library. The iconographic model is that of the spiral ziggurat that ﬁrst<br>
+appears in two paintings by Pieter Brueghel, who led the way in por-<br>
+traying the tower by itself, excised from the illustrated Biblical narrative<br>
+of which it is a part. Desmazie(')res’s tower, more like Brueghel’s smaller<br>
+panel now in Rotterdam, practically ﬁlls out the place, and completely<br>
+overshadows the puny human creatures teeming at its doors. Yet in _Gene-<br>
+sis_, the Tower of Babel stands for man’s arrogant attempt to reach heaven <br>
+with one of his constructions. God’s punishment for this audacity is the<br>
+destruction of the tower, along with the proliferation of languages that<br></p>
+<br>
+<p class="centered">-9-</p>
+
 
 
