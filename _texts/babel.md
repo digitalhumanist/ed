@@ -58,10 +58,11 @@ _A Library of Two Inventions
 <br>Angela Giral_
 </p>
 
- <p align="justify">
-{:.indent-3}HAT IS PRESENTED to us here is a most intriguing case of<br>
-{:.indent-3}sympathies and differences. This is by no means the ﬁrst in-<br>
-{:.indent-3}stance of imaging Borges’s total library. Earlier attempts were<br>
+<p align="justify">
+
+{:.indent-3} HAT IS PRESENTED to us here is a most intriguing case of<br>
+{:.indent-3} sympathies and differences. This is by no means the ﬁrst in-<br>
+{:.indent-3} stance of imaging Borges’s total library. Earlier attempts were<br>
 rather literal graphic representations of Borges’s verbal account of the<br>
 universe he chooses to call “The Library of Babel.” Desmazie(')res’s etch-<br>
 ings are no mere illustrations of the writer’s words; they are the prod-<br>
