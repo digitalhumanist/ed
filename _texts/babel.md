@@ -1,9 +1,8 @@
-
 ---
 layout: narrative
 title: The Library of Babel
 author: Jorge Luis Borges
-source: 
+source: xxxx print edition
 editor: Becca Kempe
 publication-date: September 16, 2016
 ---
