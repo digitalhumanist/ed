@@ -44,7 +44,7 @@ ANDREW HURLEY</p>
 <br>
 <br>
 <br>
-[insert image - publisher stamp]
+<p>[insert image - publisher stamp]</p>
 <br>
 <p class="centered">DAVID R. GODINE, _Publisher_
 <br>BOSTON</p>
